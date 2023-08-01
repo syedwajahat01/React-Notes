@@ -1,0 +1,24 @@
+Assignment: 01(Inception)
+1: What is Emmet ?
+https://medium.com/@kartik2406/web-development-with-vs-code-part-1-emmet-6af80f0f630c#id_token=eyJhbGciOiJSUzI1NiIsImtpZCI6ImZkNDhhNzUxMzhkOWQ0OGYwYWE2MzVlZjU2OWM0ZTE5NmY3YWU4ZDYiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiIyMTYyOTYwMzU4MzQtazFrNnFlMDYwczJ0cDJhMmphbTRsamRjbXMwMHN0dGcuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiIyMTYyOTYwMzU4MzQtazFrNnFlMDYwczJ0cDJhMmphbTRsamRjbXMwMHN0dGcuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMDc0Mzc5NDEwOTQzMjk3OTU5MzIiLCJlbWFpbCI6InN5ZWR3YWphaGF0aHVzYWluYWJkaTAxQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJuYmYiOjE2OTA4MjAxMzIsIm5hbWUiOiJTeWVkIFdhamFoYXQgSHVzYWluIEFiZGkiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFjSFR0ZlNxRzlIdTFIWmNFcW0yTEFXcGJQUG9VSFczTnJsdVJjRi1iNG5qQ0VoRHg4PXM5Ni1jIiwiZ2l2ZW5fbmFtZSI6IlN5ZWQgV2FqYWhhdCIsImZhbWlseV9uYW1lIjoiSHVzYWluIEFiZGkiLCJsb2NhbGUiOiJlbiIsImlhdCI6MTY5MDgyMDQzMiwiZXhwIjoxNjkwODI0MDMyLCJqdGkiOiI4MTIxNTgxMDNmM2I2NTIyNjE2M2IwMDdmOTc2ODM4MjIxMzBlM2VhIn0.XtvIPvMrGRvITLo0DnEBEKLSNZ65ELXbrlIvD2mKF_Pj8g4fBsbmBuQgEbds_481YzqEn61Ai9X5iTgczOyMmYAEpHMZ9chh9mmgmc3aQcKxS9Av1QLFntqXeWBqdZgd_Q0kIzCS3jMLhOvxnyz38xhxxtfSdLDPT7wD56DkCDaOGaOLsyD6lknlEJVoZ-BCraK-EOZxp-M7uCHHcjggMh0vUr6qqInPHuxejxxtmsVMZKvYNru_GSxewbRfCz1ktVk2A7-1bM_w-GRMHw46B0yYLdvqbfNYjyikxhxE5ExXlCngKWwLTRPuwgRvNJFnHfJ2f22yBlDir-uAVFAJjg
+
+2: Difference between a Library and Framework?
+https://www.geeksforgeeks.org/software-framework-vs-library/
+
+3: What is CDN? Why do we use it?
+https://aws.amazon.com/what-is/cdn/#:~:text=A%20content%20delivery%20network%20(CDN,network%20or%20content%20distribution%20network.
+
+4: Why is React known as React?
+https://medium.com/@dhawalpandya/why-is-react-called-react-92f83b10aeac
+
+5: What is crossorigin in script tag?
+https://www.w3schools.com/tags/att_script_crossorigin.asp#:~:text=The%20crossorigin%20attribute%20sets%20the,or%20scripts)%20from%20another%20domain.
+
+6: What is diference between React and ReactDOM?
+https://www.geeksforgeeks.org/how-react-and-reactdom-works/
+
+7: What is difference between react.development.js and react.production.js files via CDN?
+https://www.geeksforgeeks.org/how-to-tell-reactjs-to-build-project-in-production-mode
+
+8: What is async and defer?
+https://pagespeedchecklist.com/async-and-defer
